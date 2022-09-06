@@ -13,3 +13,7 @@ Well basically it's a landing page of a fictional cryptocurrency website gotten 
 Yeah not too many features as expected right? Well there were somethings I did to get the result looking pretty cool.
 
 ### the process...
+
+So I built this project with HTML and TailwindCSS mainly, then a sprinkle of JavaScript. Now when I say sprinkle I really mean it because there's probably not more than 20 lines of code on there.
+
+The fade-in scroll animations are powered by a lightweight JavaScript library called [ScrollReveal](https://scrollrevealjs.org). Pretty cool and intuitive, you should check it out if you haven't.
