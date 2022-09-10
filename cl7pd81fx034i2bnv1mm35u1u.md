@@ -16,7 +16,7 @@ Yeah not too many features as expected right? Well there were somethings I did t
 
 So I built this project with HTML and TailwindCSS mainly, then a sprinkle of JavaScript. Now when I say sprinkle I really mean it because there's probably not more than 20 lines of code on there.
 
-The fade-in scroll animations are powered by a lightweight JavaScript library called [ScrollReveal](https://scrollrevealjs.org). Pretty cool and intuitive, you should check it out if you haven't.
+The fade-in scroll animations are powered by a lightweight JavaScript library called [AOS, Animate on Scroll](https://michalsnik.github.io/aos/). Pretty cool and intuitive, you should check it out if you haven't.
 
 ### some stuffs I learnt along the way
 
@@ -44,6 +44,6 @@ There's probably something I've not learnt yet or missing out, but I'm pretty su
 
 %[https://www.loom.com/share/ede05bb3c4e3466ea6a6f298fdc44fb7]
 
-You can access the live project [here](crappocryptochallenge.netlify.app) and GitHub repository [here](https://github.com/CyberGeni/crappo/)
+You can access the live project [here](https://crappocryptochallenge.netlify.app) and GitHub repository [here](https://github.com/CyberGeni/crappo/)
 
 okay bye
