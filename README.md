@@ -1,2 +1,2 @@
 # hashnode
-A repository for storing my hashnode blog posts for backup uiummmy
+A repository for storing my hashnode blog posts for backup 
