@@ -38,4 +38,4 @@ I'm looking forward to doing more amazing things in future... meeting new people
 
 I'm preparing an article about my experience during my 3months internship at devcareers, so I guess i'll see you there?
 
-! \[jaa mata ne\]([https://tenor.com/en-GB/view/jaa-mata-ne-jerome-polin-nihongo-mantappu-starhits-sampai-jumpa-lagi-gif-20116479](https://tenor.com/en-GB/view/jaa-mata-ne-jerome-polin-nihongo-mantappu-starhits-sampai-jumpa-lagi-gif-20116479))
+!\[jaa mata ne\]([https://tenor.com/bwznv.gif](https://tenor.com/bwznv.gif))
