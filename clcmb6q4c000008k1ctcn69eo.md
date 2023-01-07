@@ -38,4 +38,4 @@ I'm looking forward to doing more amazing things in future... meeting new people
 
 I'm preparing an article about my experience during my 3months internship at devcareers, so I guess i'll see you there?
 
-!\[\]([https://tenor.com/bwznv.gif](https://tenor.com/bwznv.gif))
+!\[\]([https://media.tenor.com/x0V\_lxPdYOMAAAPo/jaa-mata-ne-jerome-polin.mp4](https://media.tenor.com/x0V_lxPdYOMAAAPo/jaa-mata-ne-jerome-polin.mp4))
