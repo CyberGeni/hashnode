@@ -9,7 +9,7 @@ tags: web-development, debuggingfeb
 
 ---
 
-### a little context if you care to listen
+### a little context
 
 So, earlier this year, I was messing around with my [web portfolio](https://cybergenie.netlify.app). I wasn't doing anything significant, just moving a few projects around and switching Tailwind to the CLI from [Play CDN](https://tailwindcss.com/docs/installation/play-cdn) in Vue. I hoped to shoot some shots with this portfolio, so I figured I'd update my details and take care of some security issues that GitHub had been nagging me about. Little did I know that my worst all-night-long debugging experience had just begun.
 
@@ -45,4 +45,4 @@ When I was comparing the two files, I noticed 2 dependencies (`webpack`and `webp
 
 ### lessons and conclusion
 
-Getting bugs can be very frustrating, but it's part of the everyday life of a developer, so I've learned to live with it. I learned so many things while dealing with this bug, including the fact that StackOverflow doesn't have all the answers. It's important to pay very close attention to details because the error might be in front of you the whole time. Most importantly, *if it ain't broke, don't fix it*.
+Getting bugs can be very frustrating, but it's part of the everyday life of a developer, so I've learned to live with it. No, I didn't hear back from the recruiter, but I learned so many things while dealing with this bug, including the fact that StackOverflow doesn't have all the answers. It's important to pay very close attention to details because the error might be in front of you the whole time. Most importantly, *if it ain't broke, don't fix it*.
