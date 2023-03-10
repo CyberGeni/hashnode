@@ -5,7 +5,7 @@ seoDescription: "I pushed multiple bugs into production of a live site, here's h
 datePublished: Fri Mar 10 2023 00:00:39 GMT+0000 (Coordinated Universal Time)
 cuid: clf1ruxy606hihxnv370k7cfs
 slug: that-one-time-i-pushed-multiple-bugs-into-production
-tags: web-development, debuggingfeb
+tags: web-development, wemakedevs, debuggingfeb
 
 ---
 
